@@ -1,4 +1,4 @@
-= Пример использования
+# Пример использования
 
 ```cmake
 include(${PATH_TO}/add_translations_qt5.cmake)
